@@ -1,11 +1,13 @@
 # Smart Helmet Content Study
 
-Online report: https://mantacucu.github.io/smart-helmet-content-study/
+## Versions
 
-Interactive research report comparing Lumos, UNIT1, KASK and POC.
+- [v2: integrated core selling-point heatmap](https://mantacucu.github.io/smart-helmet-content-study/v2/)
+- [v1: exact backup before the v2 changes](https://mantacucu.github.io/smart-helmet-content-study/v1/)
+- [Original address, preserved](https://mantacucu.github.io/smart-helmet-content-study/)
 
-Includes content mechanisms, platform-specific engagement statistics, sampled audience comments, original English wording, source links, and methodology.
+v2 compares all specific selling points in a single heatmap, including Smart/Technology framing, intercom, open-ear audio, device integration, automation, and materials/aerodynamic engineering. Technology is a roll-up of concrete tags, never an extra selling-point category. The heatmap supports share of all selling-point tags and post coverage. Original English wording and source context are preserved.
 
-The technology section separates Smart framing, intercom and group communication, open-ear audio and calling, connected ecosystems, automation, and materials/aerodynamic engineering. Supplemental qualitative comments are distinguished from the original statistical sample.
+The original audience sample and reaction percentages are unchanged. v1 is preserved byte-for-byte and its original commit is tagged `report-v1`.
 
-A self-contained static HTML document, published from the main branch root with GitHub Pages.
+Self-contained static HTML documents, hosted with GitHub Pages.

@@ -1,0 +1,15 @@
+{
+  "default_url": "https://mantacucu.github.io/smart-helmet-content-study/",
+  "versions": {
+    "v1": {
+      "url": "https://mantacucu.github.io/smart-helmet-content-study/v1/",
+      "sha256": "8f58fbc25e93345f0de8b5f4355fcc97db8691b070c2fa681993a47e41aade2d",
+      "source_commit": "9a517e5c5d91ec06f36fd9dcb3c2f3bdbc7bb0db"
+    },
+    "v2": {
+      "url": "https://mantacucu.github.io/smart-helmet-content-study/v2/",
+      "sha256": "0bba8316ba108b209b66e994a9ee7aefa901299d74a32c7533676b397f8048a3",
+      "title": "核心卖点整合版"
+    }
+  }
+}
